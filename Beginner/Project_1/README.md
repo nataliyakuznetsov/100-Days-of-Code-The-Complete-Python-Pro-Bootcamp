@@ -1,19 +1,19 @@
 # Day 1
 ## Strings
 Strings are text, surrounded by single or double quotation marks.
-
-**"Hello World!"** OR **'Hello World!'**
-
+```
+"Hello World!" OR 'Hello World!'
+```
 ## Escape Sequences in String
 - `\n` : new line
-  ```py
-  # example 
-  print("Hello, my new friend!\nNice to see you")
+```py
+# example 
+print("Hello, my new friend!\nNice to see you")
 
-  # output
-  Hello, my new friend!
-  Nice to see you.
-  ```
+# output
+Hello, my new friend!
+Nice to see you.
+```
 
 ## print() function 
 - displays a message to the console.
