@@ -40,7 +40,7 @@ name = input("What is your name?")
 print(name)     
 ```  
 ## String Concatenation
--and strings together
+- add strings together with the + character.
 ```py
 # example
 name = "John"
