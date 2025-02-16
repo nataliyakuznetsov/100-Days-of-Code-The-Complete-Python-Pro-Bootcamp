@@ -39,3 +39,13 @@ input()
 name = input("What is your name?")
 print(name)     
 ```  
+## String Concatenation
+-and strings together
+```py
+# example
+name = "John"
+profession = "a driver"
+print(name + " is + profession)
+
+#output
+John is a driver
