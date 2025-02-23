@@ -1,5 +1,5 @@
 import random
-from rock_paper_scissors_art import rock
+from rock_paper_scissors_art import rock, paper, scissors
 
 # creating the list of pictures
 list_pictures = [rock, paper, scissors]
