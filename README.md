@@ -10,5 +10,5 @@ This repository contains my projects from "100 Days of Code: The Complete Python
 |  04   | [Rock Paper Scissors](./Beginner/Project_4/rock_paper_scissors.py)         | list, if/else, random                                |
 |  05   | [Password Generator Project](./Beginner/Project_5/password_generator.py)   | for loops, range(), shuffle(), append()              |
 |  06   | [Maze game](./Beginner/Project_6/maze.py)                                  | while loop                                           |
-|  07   | [Hangman game](./Beginner/Project_7/mane.py)                               | while loop, if/else statement, range(), input()      |
+|  07   | [Hangman game](./Beginner/Project_7/main.py)                               | while loop, if/else statement, range(), input()      |
 
