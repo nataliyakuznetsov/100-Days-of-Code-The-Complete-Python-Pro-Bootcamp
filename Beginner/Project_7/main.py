@@ -29,6 +29,9 @@ while not game_over:
     # receiving the letter from the user
     guess = input("Guess a letter: ").lower()
 
+    if guess in correct_letters:
+        print(f"You've already guessed {guess}")
+
     display = ""
 
     # conditions when guessed letter is in the word
@@ -46,9 +49,9 @@ while not game_over:
    #  if guessed letter is not in the word
 
     if guess not in chosen_word:
+        lives -= 1  # lose life
         print(f"You guess {guess}, that's not in the world. You lose the life.")
-        lives -= 1 # lose life
-
+        
         # game over and lose
         if lives == 0:
             game_over = True
