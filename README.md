@@ -11,4 +11,5 @@ This repository contains my projects from "100 Days of Code: The Complete Python
 |  05   | [Password Generator Project](./Beginner/Project_5/password_generator.py)   | for loops, range(), shuffle(), append()              |
 |  06   | [Maze game](./Beginner/Project_6/maze.py)                                  | while loop                                           |
 |  07   | [Hangman game](./Beginner/Project_7/main.py)                               | while loop, if/else statement, range(), input()      |
+|  08   | [Caesar Cipher](./Beginner/Project_8/main.py)                              | while loop, if/else, function()                      |
 
