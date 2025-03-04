@@ -12,4 +12,6 @@ This repository contains my projects from "100 Days of Code: The Complete Python
 |  06   | [Maze game](./Beginner/Project_6/maze.py)                                  | while loop                                           |
 |  07   | [Hangman game](./Beginner/Project_7/main.py)                               | while loop, if/else statement, range(), input()      |
 |  08   | [Caesar Cipher](./Beginner/Project_8/main.py)                              | while loop, if/else, function()                      |
+|  09   | [Blind Auction Project](./Beginner/Project_9/main.py)                      | if/else, while, for in, function()                   |
+|  10   | [Calculator Project](./Beginner/Project_10/main.py)                        | if/else, while, for in, dictionary, function()       |
 
